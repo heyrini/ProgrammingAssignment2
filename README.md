@@ -8,8 +8,8 @@ Unit testing for the functions, will produce the following outputs
 
 * source("cachematrix.R")
 * amatrix=makeCacheMatrix(matrix(1:4,2,2))
-* amatrix$get()
-      [,1] [,2]  
+* amatrix$get()  
+	[,1] [,2]  
 [1,]    1    3  
 [2,]    2    4  
 * amatrix$getinverse()  
